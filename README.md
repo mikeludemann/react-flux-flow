@@ -1,2 +1,3 @@
-# react-flux-flow
+# React Flux Flow
+
 A react with flux and flow setup and environment
